@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Open Sans", sans-serif;
+    src: url(../fonts/OpenSans-Regular.ttf);
+    src: url(../fonts/OpenSans-Regular.woff);
+    src: url(../fonts/OpenSans-Regular.woff2);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Open Sans", sans-serif;
+    src: url(../fonts/OpenSans-Bold.ttf);
+    src: url(../fonts/OpenSans-Bold.woff);
+    src: url(../fonts/OpenSans-Bold.woff2);
+    font-weight: bold;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+}
